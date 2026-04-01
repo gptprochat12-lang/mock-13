@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
-    <color name="bg_dark">#0F0F1A</color>
-    <color name="card_dark">#1A1A2E</color>
-    <color name="green_active">#4CAF50</color>
-    <color name="red_stop">#F44336</color>
-</resources>
